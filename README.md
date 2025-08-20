@@ -1,3 +1,3 @@
 ## Java-basico
 
-## Simulação basica de um terminal de uma conta de banco em Java
+Simulação basica de um terminal de uma conta de banco em Java
